@@ -57,4 +57,4 @@ We use some third-party scripts in our add-on. The authors and licenses are list
     [MIT](https://github.com/lauren/pick-a-color/blob/master/LICENSE)
 
 ## Licence
-[![License: QaPL v0.2](https://img.shields.io/badge/License-QaPL%20v0.2-brightgreen.svg)](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/LICENSE.md)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
